@@ -31,3 +31,4 @@ Here is a list of some of my favorite music artists:
 
 My music taste changes **drastically** depending on my mood and I love exploring new genres!
 
+[Wanna learn more?](wannbeyaoming.github.io)
