@@ -6,7 +6,7 @@ Hello! My name is Henry Lam and welcome to my GitHub page!
 
 ## Background
 
-I am currently a 2nd year electrical and computer engineering student at the University of Washington. I was born and raised in Renton, Washington. I am currently exploring what to do after graduation, however, I am currently interested in working with semiconductors or with consumer electronics such as phones or video game consoles!
+I am currently a 2nd year electrical and computer engineering student at the University of Washington. I was born and raised in Renton, Washington. I am currently exploring what to do after graduation, *however*, I am currently interested in working with semiconductors or with consumer electronics such as phones or video game consoles!
 
 ## Hobbies
 
@@ -29,4 +29,5 @@ Here is a list of some of my favorite music artists:
 - [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ?si=ReVlOGQ1QvuRt26JFmPzZQ)
 - [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX?si=5_SbQbqSQwCv0uKFZsNhYw)
 
-My music taste changes 
+My music taste changes **drastically** depending on my mood and I love exploring new genres!
+
